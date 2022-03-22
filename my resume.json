@@ -1,0 +1,35 @@
+{
+    "about":{
+        "name":"jayaprakash",
+        "dob":"31-07-1997",
+        "professional":"front-end-developer",
+        "degree":"B.tech (IT)",
+        "email":"jayaprakash.m786@gmail.com",
+        "phone-no":99994999,
+        "portfolio":"www.jp24.in",
+        "city":"chennai"
+        
+
+    },
+    "education": 
+        {
+          "school": "Nehru boys.hr.sec.school",
+          "area": "palavanthagal",
+          "college":"dhanalakshmi engineering college",
+          "studyType": "Engineering",
+          "startDate": 2015,
+          "endDate": 2019,
+          "gpa": 6.3,
+          "courses": "mechanical engineering"
+        },
+
+     "work-experience":{
+        "office":" yamaha motors",
+        "experience":"2019-currently",
+        "shift":"routine shift"
+     },
+
+     "skills":["react","javascript","boostarp","css","html"]
+
+      
+}
